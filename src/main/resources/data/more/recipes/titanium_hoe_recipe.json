@@ -1,0 +1,27 @@
+{
+  "group": "more",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more:titanium_ingot"
+    },
+    "1": {
+      "item": "more:titanium_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "more:titanium_hoe",
+    "count": 1
+  }
+}

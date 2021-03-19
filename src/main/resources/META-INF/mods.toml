@@ -2,14 +2,14 @@ modLoader="javafml"
 loaderVersion="[31,)"
 
 [[mods]]
-modId="morematerials"
-version="1.0.0"
-displayName="MoreMaterials"
+modId="more"
+version="1.0.0.1"
+displayName="MOre"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="FABIEN, MCreator"
+authors="LOG Drakon, MCreator"
 
-[[dependencies.morematerials]]
+[[dependencies.more]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"
