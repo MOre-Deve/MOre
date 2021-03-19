@@ -1,0 +1,13 @@
+{
+  "group": "morematerials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morematerials:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "morematerials:titanium_ingot",
+    "count": 9
+  }
+}

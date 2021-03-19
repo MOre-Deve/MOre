@@ -1,0 +1,12 @@
+{
+  "group": "morematerials",
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "morematerials:titanium_ore"
+  },
+  "result": {
+    "item": "morematerials:titanium_ingot"
+  }
+}

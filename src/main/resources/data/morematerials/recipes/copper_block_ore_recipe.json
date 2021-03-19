@@ -1,0 +1,13 @@
+{
+  "group": "morematerials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morematerials:copper_block"
+    }
+  ],
+  "result": {
+    "item": "morematerials:copper_ingot",
+    "count": 9
+  }
+}

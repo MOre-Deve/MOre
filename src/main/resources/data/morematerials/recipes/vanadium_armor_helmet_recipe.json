@@ -1,0 +1,29 @@
+{
+  "group": "morematerials",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "morematerials:vanadium_ingot"
+    },
+    "1": {
+      "item": "morematerials:vanadium_ingot"
+    },
+    "2": {
+      "item": "morematerials:vanadium_ingot"
+    },
+    "3": {
+      "item": "morematerials:vanadium_ingot"
+    },
+    "5": {
+      "item": "morematerials:vanadium_ingot"
+    }
+  },
+  "result": {
+    "item": "morematerials:vanadium_armor_helmet",
+    "count": 1
+  }
+}

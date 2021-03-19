@@ -1,0 +1,13 @@
+{
+  "group": "morematerials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morematerials:vanadium_block"
+    }
+  ],
+  "result": {
+    "item": "morematerials:vanadium_ingot",
+    "count": 9
+  }
+}

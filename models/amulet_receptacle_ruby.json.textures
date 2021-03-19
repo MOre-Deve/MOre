@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "receptacle_receiver_ruby",
+        "1": "amulet_receptacle",
+        "2": "receptacle"
+      },
+      "name": "default"
+    }
+  }
+}

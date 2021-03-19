@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "morematerials:blocks/copper_ore",
+    "particle": "morematerials:blocks/copper_ore"
+  }
+}

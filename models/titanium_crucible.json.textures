@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "titanium_crucible"
+      },
+      "name": "default"
+    }
+  }
+}
